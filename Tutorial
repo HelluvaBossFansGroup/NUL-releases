@@ -1,0 +1,23 @@
+[SAMPLES]
+=======================
+10 PRINT "NUMBER: "
+20 INPUT A
+30 PRINT "SECOND NUMBER:"
+40 INPUT B
+50 LET C = A + B
+60 PRINT "SUM:"
+70 PRINT C
+80 END
+=======================
+10 PRINT "NAME: "
+20 INPUT N
+30 PRINT "HELLO,"
+40 PRINT N
+50 END
+=======================
+[COMMANDS, PROGRAMMING LANGUAGE]
+PRINT, GOTO, LET, INPUT
+=======================
+[COMMANDS]
+RUN, CLEAR
+=======================
